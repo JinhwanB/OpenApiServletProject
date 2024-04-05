@@ -27,6 +27,8 @@
 
 ## ERD
 
-|                  전체 테이블                   |api 가져오기
-|:-----------------------------------------:|:-:
-| ![table](mission1%2Fdb%2FdatabaseERD.png) |
+|                                                            전체 테이블                                                            |api 가져오기
+|:----------------------------------------------------------------------------------------------------------------------------:|:-:
+|                                          ![table](mission1%2Fdb%2FdatabaseERD.png)                                           |![api 가져오기](https://github.com/JinhwanB/OpenApiServletProject/assets/123534245/587b99c5-fa3d-43f8-9a8f-71a5f7c63255)
+|                                                    위치 기반 근처 wifi 20개 가져오기                                                    |히스토리 가져오기 / 삭제
+| ![근처 wifi 20개 가져오기](https://github.com/JinhwanB/OpenApiServletProject/assets/123534245/7b4c2889-88a3-4dd4-9bbb-dd93dab7ce01) |![히스토리 가져오기 / 삭제](https://github.com/JinhwanB/OpenApiServletProject/assets/123534245/d0cfa0d4-7df1-450b-b40a-780ffc8d910e)
