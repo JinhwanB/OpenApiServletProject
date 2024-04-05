@@ -26,3 +26,7 @@
   - lombok 1.18.24, Tomcat 8.5, gson 2.9.0, okhttp3 4.9.3
 
 ## ERD
+
+|                  전체 테이블                   |api 가져오기
+|:-----------------------------------------:|:-:
+| ![table](mission1%2Fdb%2FdatabaseERD.png) |
