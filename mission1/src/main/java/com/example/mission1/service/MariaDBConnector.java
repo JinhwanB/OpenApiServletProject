@@ -149,7 +149,7 @@ public class MariaDBConnector {
 
         // 데이터를 1000개씩 한번에 쿼리를 보내서 저장한다. (속도 향상)
         Connection connection = getConnect();
-        connection.setAutoCommit(false); // 데이터가 1000개가 되는 순간 commit하기 위해 autoCommit을 off한다.
+        connection.setAutoCommit(false); // exception 발생 시 롤백
         ResultSet rs = null;
         PreparedStatement preparedStatement = null;
         try {
